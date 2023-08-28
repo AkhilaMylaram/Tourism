@@ -1,0 +1,225 @@
+
+.bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+  height: 150vh;
+  background-size: cover;
+}
+.tourism-card {
+  text-align: center;
+  background-color: white;
+  padding: 5px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+.main-heading {
+  font-family: "Roboto";
+}
+.paragraph {
+  font-family: "Roboto";
+}
+.button {
+  color: white;
+  background-color: #25b1cc;
+  width: 138px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 20px;
+}
+.bg{
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+  height:300vh;
+  background-size:cover;
+}
+.bg-card{
+  color:white;
+  font-weight:bold;
+  font-size:50px;
+  text-align:center;
+  padding:2px;
+  margin-bottom:30px;
+  font-family:"sans-serif";
+  font-style: italic;
+}
+.cards{
+  background-color: white;
+  height:63vh;
+  width:95vw;
+  padding:25px;
+  margin:30px;
+  border-radius:8px;
+  
+
+
+}
+.mini-heading{
+  color:black;
+  font-family:'Times New Roman', Times, serif;
+  font-size:40px;
+  font-weight:bold;
+  margin-left:15px;
+  
+
+}
+.description{
+  color:black;
+  font-size:30px;
+  margin:5px;
+  font-style:italic;
+}
+.img-style{
+  height:50vh;
+  margin:15px;
+
+
+
+}
+.Tajhead{
+  color:black;
+  font-size:30px;
+  font-family:"Roboto";
+  font-weight:bold;
+  padding:15px;
+}
+.tajPara{
+  color:black;
+  font-size:25px;
+  font-style:italic;
+  padding:10px;
+}
+.detailedbg{
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height:250vh;
+  background-size:cover;
+  padding:60px; 
+}
+.Detailed-head{
+  color:white;
+  font-size:40px;
+  font-weight:bold;
+  font-family:"Roboto";
+  text-align:center;
+}
+.card3{
+  background-color:white;
+  margin-top:20px;
+  border-radius:8px;
+  width:90vw;
+  margin-right:30px;
+
+}
+.Tajhead{
+  color:black;
+  font-size:30px;
+  font-family:"Roboto";
+  font-weight:bold;
+  padding:15px;
+}
+.tajPara{
+  color:black;
+  font-size:25px;
+  font-style:italic;
+  padding:10px;
+}
+.detailedbg{
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height:250vh;
+  background-size:cover;
+  padding:60px; 
+}
+.Detailed-head{
+  color:white;
+  font-size:40px;
+  font-weight:bold;
+  font-family:"Roboto";
+  text-align:center;
+}
+.card3{
+  background-color:white;
+  margin-top:20px;
+  border-radius:8px;
+  width:90vw;
+  margin-right:30px;
+
+}
+.golden-list{
+  color:black;
+  font-size:25px;
+  font-style:italic;
+  padding:10px;
+  margin-left:40px;
+}
+.Tajhead{
+  color:black;
+  font-size:30px;
+  font-family:"Roboto";
+  font-weight:bold;
+  padding:15px;
+}
+.tajPara{
+  color:black;
+  font-size:25px;
+  font-style:italic;
+  padding:10px;
+}
+.detailedbg{
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height:200vh;
+  background-size:cover;
+  padding:60px; 
+}
+.Detailed-head{
+  color:white;
+  font-size:40px;
+  font-weight:bold;
+  font-family:"Roboto";
+  text-align:center;
+}
+.card3{
+  background-color:white;
+  margin-top:20px;
+  border-radius:8px;
+  width:90vw;
+  margin-right:30px;
+
+}
+.Tajhead{
+  color:black;
+  font-size:30px;
+  font-family:"Roboto";
+  font-weight:bold;
+  padding:15px;
+}
+.tajPara{
+  color:black;
+  font-size:25px;
+  font-style:italic;
+  padding:10px;
+}
+.detailedbg{
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height:200vh;
+  background-size:cover;
+  padding:60px; 
+}
+.Detailed-head{
+  color:white;
+  font-size:40px;
+  font-weight:bold;
+  font-family:"Roboto";
+  text-align:center;
+}
+.card3{
+  background-color:white;
+  margin-top:20px;
+  border-radius:8px;
+  width:90vw;
+  margin-right:30px;
+
+}
+.finalbutton{
+  background-color:black;
+  color:white;
+  font-size:15px;
+  border-radius:8px;
+  
+}
